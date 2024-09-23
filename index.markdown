@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome to &FURTHERANCE.
+# Welcome to &FURTHERANCE .
 
 <!-- List all posts -->
 <ul id="homepage-post-list">
