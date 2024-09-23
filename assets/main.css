@@ -46,6 +46,10 @@ a {
     #go-home-link {
         display: none;
     }
+
+    body article {
+        padding: 2.5px;
+    }
 }
 
 #go-home-link {
@@ -55,6 +59,10 @@ a {
 }
 
 h1 {
-    margin: 2em 0;
+    margin: 1em 0;
     font-size: 2em;
+}
+
+h2, {
+    margin: 1em 0;
 }
