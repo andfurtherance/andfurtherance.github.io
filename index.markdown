@@ -2,10 +2,10 @@
 layout: default
 ---
 
-# Welcome to *&Furtherance*.
+# Welcome to &FURTHERANCE.
 
 <!-- List all posts -->
-<ul>
+<ul id="homepage-post-list">
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
