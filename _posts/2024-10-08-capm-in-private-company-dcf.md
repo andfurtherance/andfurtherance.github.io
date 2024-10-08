@@ -28,9 +28,9 @@ But what about private companies?
 
 ## The Problem with CAPM for Private Companies
 
-The problem is that private companies don’t have stock prices. They don’t trade on open markets, so you can’t measure how their returns correlate with the broader market. No stock price means no β\betaβ. So how do you use CAPM?
+The problem is that private companies don’t have stock prices. They don’t trade on open markets, so you can’t measure how their returns correlate with the broader market. No stock price means no $\beta$. So how do you use CAPM?
 
-Most people just _make up_ a β\betaβ. They look at similar public companies and use their β\betaβ as an estimate. But that’s a pretty big leap. Public companies, especially large ones, tend to be more stable and diversified than private companies. A private company’s risk profile is often completely different.
+Most people just _make up_ a $\beta$. They look at similar public companies and use their $\beta$ as an estimate. But that’s a pretty big leap. Public companies, especially large ones, tend to be more stable and diversified than private companies. A private company’s risk profile is often completely different.
 
 Worse, private companies tend to be owned by a small group of individuals, usually the founders or early investors, who are deeply involved in the business. Their personal wealth is often tied up in the company, and they can’t diversify their risk by holding a portfolio of stocks like a public market investor can. This changes the nature of risk for them—what might be a small risk for a public company can be an existential threat for a private one.
 
