@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Pecking Order"
-blog_title: "The Pecking Order"
-date: 2024-09-27
+title: "The Pecking Order: Lessons from Success and Failures"
+blog-title: "The Pecking Order: Lessons from Success and Failures"
+date: 2024-09-23
 categories: exploration
 ---
 
