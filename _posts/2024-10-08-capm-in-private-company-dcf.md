@@ -22,7 +22,7 @@ Where:
 
 The idea is that an investor needs to be compensated for two things: the time value of money (that’s the $R_f$ part) and the risk of investing in something volatile (that’s the $\beta(R_m - R_f)$ part).
 
-For public companies, this works reasonably well. You can look up the risk-free rate in about 30 seconds, and there’s tons of data on how a public company’s stock moves relative to the market (that’s how you figure out β\betaβ). So, for public companies, the CAPM formula gives you a pretty good estimate of the discount rate you should use in a **Discounted Cash Flow (DCF)** valuation.
+For public companies, this works reasonably well. You can look up the risk-free rate in about 30 seconds, and there’s tons of data on how a public company’s stock moves relative to the market (that’s how you figure out $\beta$). So, for public companies, the CAPM formula gives you a pretty good estimate of the discount rate you should use in a **Discounted Cash Flow (DCF)** valuation.
 
 But what about private companies?
 
