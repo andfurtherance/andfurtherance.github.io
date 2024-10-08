@@ -16,7 +16,7 @@ $$ \text{Expected Return} = R_f + \beta (R_m - R_f) $$
 
 Where:
 
-- $ R_f $​ is the risk-free rate (usually the return on government bonds).
+- $R_f$​ is the risk-free rate (usually the return on government bonds).
 - $ \beta $ is a measure of how much the company’s returns move with the market.
 - $ R_m $​ is the expected return of the market as a whole.
 
