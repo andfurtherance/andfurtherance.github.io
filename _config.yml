@@ -27,6 +27,12 @@ url: "https://andfurtherance.github.io" # the base hostname & protocol for your 
 twitter_username: notintwitter
 github_username:  andfurtherance
 
+# Markdown settings
+markdown: kramdown
+
+kramdown:
+  input: GFM  # Enables GitHub Flavored Markdown
+
 # Build settings
 theme: minima
 plugins:
