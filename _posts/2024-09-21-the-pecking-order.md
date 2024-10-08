@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Pecking Order"
-blog-title: "The Pecking Order"
+blog_title: "The Pecking Order"
 date: 2024-09-21
-categories: poetry
+categories: exploration
 ---
 
 *Money follows furtherance, not the other way around.*
