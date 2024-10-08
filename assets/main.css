@@ -39,7 +39,7 @@ ul#post-list li {
 
 @media (min-width: 1024px) {
   #go-home-link {
-      display: block; /* Show on desktop */
+    display: block; /* Show on desktop */
   }
 }
 
@@ -103,12 +103,20 @@ blockquote p {
   margin: 0;
 }
 
+.illustration {
+  border: 2px solid #007BFF; /* Blue border */
+  padding: 15px; /* Padding around the content */
+  margin: 20px 0; /* Margin above and below */
+  background-color: #f9f9f9; /* Light gray background */
+  border-radius: 5px; /* Rounded corners */
+}
+
 @media (max-width: 600px) {
   body {
-      margin: 0;
+    margin: 0;
   }
 
   article {
-      padding: 15px;
+    padding: 15px;
   }
 }
