@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "The Pecking Order: Lessons from Success and Failure"
-date: 2024-09-23
-categories: business, investment
+title: "The Pecking Order"
+blog_title: "The Pecking Order"
+date: 2024-09-27
+categories: exploration
 ---
 
 ### The Pecking Order: Lessons from Success and Failure
