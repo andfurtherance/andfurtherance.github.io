@@ -72,6 +72,8 @@ The DCF method estimates the present value of expected future cash flows generat
    $$
    where $$CF_t$$ is the cash flow in year $$t$$, $$r$$ is the discount rate, and $$n$$ is the number of years.
 
+<div class="illustration">
+
 ### Illustration
 
 Assume a private car company projects annual cash flows of $5 million for the next five years with a discount rate of 12%.
@@ -82,6 +84,7 @@ $$
 $$
 
 This results in an estimated intrinsic value of approximately $16.65 million.
+</div>
 
 ### B. Capitalization of Earnings
 
@@ -93,13 +96,14 @@ $$
 $$
 
 
+<div class="illustration">
 ### Illustration
 
 If a private tech company has adjusted earnings of $10 million and an appropriate capitalization rate of 10%, its value would be:
 $$
 \text{Value} = \frac{10M}{0.10} = \$100 million
 $$
-
+</div>
 
 ### Advantages and Limitations
 
@@ -122,6 +126,7 @@ The Market Value Approach assesses a company’s worth by comparing it with simi
 2. **Precedent Transactions Analysis**:
    - Examine past transactions involving similar companies to establish valuation benchmarks.
 
+<div class="illustration">
 ### Illustration
 
 Assume a private technology company has earnings of $10 million. If the average price-to-earnings (P/E) ratio for comparable public companies is 20x:
@@ -136,7 +141,7 @@ In contrast, if Apple has earnings of $50 billion and an average P/E ratio of 30
 $$
 \text{Valuation}_{Apple} = 50B \times 30 = \$1.5 trillion
 $$
-
+</div>
 
 ### Advantages and Limitations
 
