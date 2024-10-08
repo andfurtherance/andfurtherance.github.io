@@ -29,6 +29,7 @@ Consider a private manufacturing company with the following balance sheet:
 
 | **Assets**               | **Value**     |
 |--------------------------|---------------|
+
 | Machinery                | $500,000      |
 | Inventory                | $200,000      |
 | Real Estate              | $300,000      |
@@ -36,6 +37,7 @@ Consider a private manufacturing company with the following balance sheet:
 
 | **Liabilities**          | **Value**     |
 |--------------------------|---------------|
+
 | Loans                    | $400,000      |
 | Accounts Payable         | $100,000      |
 | **Total Liabilities**    | **$500,000**  |
