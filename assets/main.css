@@ -45,7 +45,11 @@ ul#post-list li {
 
 #blog-title {
   font-size: 2em;
-  padding: 0.25em 0;
+  padding: 1em 0;
+}
+
+p {
+  margin: 0.5em 0;
 }
 
 h1 {
