@@ -28,3 +28,39 @@ body {
 ul#post-list li {
   margin-bottom: 0.5em;
 }
+
+#go-home-link {
+  position: fixed;
+  top: 1em;
+  left: 1em;
+  color: #1b3b9c;
+  display: none;
+}
+
+@media (min-width: 1024px) {
+    #go-home-link {
+        display: block; /* Show on desktop */
+    }
+}
+
+h1 {
+  margin: 0.5em 0;
+}
+
+h2 {
+  margin: 0.5em 0;
+}
+
+article ul {
+  margin-top: 1em;
+}
+
+article ul li{
+  padding: .125em 0;
+}
+
+article blockquote {
+  margin: .5em;
+  padding: 1em;
+  background-color: antiquewhite;
+}
