@@ -16,11 +16,11 @@ $$ \text{Expected Return} = R_f + \beta (R_m - R_f) $$
 
 Where:
 
-- $$ R_f $$​ is the risk-free rate (usually the return on government bonds).
-- $$ \beta $$ is a measure of how much the company’s returns move with the market.
-- $$ R_m $$​ is the expected return of the market as a whole.
+- $ R_f $​ is the risk-free rate (usually the return on government bonds).
+- $ \beta $ is a measure of how much the company’s returns move with the market.
+- $ R_m $​ is the expected return of the market as a whole.
 
-The idea is that an investor needs to be compensated for two things: the time value of money (that’s the $$ R_f $$​ part) and the risk of investing in something volatile (that’s the $$ \beta (R_m - R_f) $$ part).
+The idea is that an investor needs to be compensated for two things: the time value of money (that’s the $ R_f $ part) and the risk of investing in something volatile (that’s the $ \beta (R_m - R_f) $ part).
 
 For public companies, this works reasonably well. You can look up the risk-free rate in about 30 seconds, and there’s tons of data on how a public company’s stock moves relative to the market (that’s how you figure out β\betaβ). So, for public companies, the CAPM formula gives you a pretty good estimate of the discount rate you should use in a **Discounted Cash Flow (DCF)** valuation.
 
