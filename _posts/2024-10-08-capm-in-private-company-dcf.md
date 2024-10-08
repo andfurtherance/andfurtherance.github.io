@@ -12,7 +12,7 @@ If you’ve ever tried to value a private company, you’ve probably run into th
 
 CAPM is supposed to tell you how much return an investor should expect for taking on a certain level of risk. The formula looks like this:
 
-$$ Expected Return=Rf+β(Rm−Rf)\text{Expected Return} = R_f + \beta (R_m - R_f)Expected Return=Rf​+β(Rm​−Rf​) $$
+$$ \text{Expected Return} = R_f + \beta (R_m - R_f) $$
 
 Where:
 
