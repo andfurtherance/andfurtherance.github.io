@@ -74,7 +74,7 @@ The DCF method estimates the present value of expected future cash flows generat
    $$
    where $$CF_t$$ is the cash flow in year $$t$$, $$r$$ is the discount rate, and $$n$$ is the number of years.
 
-### Illustration {.illustration}
+### Illustration {:.illustration}
 Assume a private car company projects annual cash flows of $5 million for the next five years with a discount rate of 12%.
 
 Calculating present value:
