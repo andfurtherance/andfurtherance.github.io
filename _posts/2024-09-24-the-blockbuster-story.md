@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "The Blockbuster Story"
-date: 2024-09-23
-categories: business, investment
+blog_title: "The Blockbuster Story"
+date: 2024-09-30
+categories: exploration
 ---
 
 ## The Timeline
