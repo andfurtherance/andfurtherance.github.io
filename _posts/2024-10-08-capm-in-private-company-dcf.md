@@ -16,9 +16,9 @@ $$ \text{Expected Return} = R_f + \beta (R_m - R_f) $$
 
 Where:
 
-- $$ RfR_fRf $$​ is the risk-free rate (usually the return on government bonds).
-- $$ β\betaβ $$ is a measure of how much the company’s returns move with the market.
-- $$ RmR_mRm $$​ is the expected return of the market as a whole.
+- $$ R_f $$​ is the risk-free rate (usually the return on government bonds).
+- $$ \beta $$ is a measure of how much the company’s returns move with the market.
+- $$ R_m $$​ is the expected return of the market as a whole.
 
 The idea is that an investor needs to be compensated for two things: the time value of money (that’s the RfR_fRf​ part) and the risk of investing in something volatile (that’s the β(Rm−Rf)\beta (R_m - R_f)β(Rm​−Rf​) part).
 
