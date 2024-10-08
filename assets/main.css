@@ -43,6 +43,11 @@ ul#post-list li {
     }
 }
 
+#blog-title {
+  font-size: 2em;
+  padding: 0.25em 0;
+}
+
 h1 {
   margin: 0.5em 0;
 }
