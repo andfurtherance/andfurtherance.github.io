@@ -6,76 +6,60 @@ date: 2024-10-08
 categories: valuation
 ---
 
-## Introduction
+Most people think valuing companies is about numbers. And it is, to an extent. But when it comes to private companies, valuation is more about judgment than math. The numbers are just inputs to a bigger, fuzzier picture. Public companies have stock prices that bounce around constantly, giving you a sense of what the market thinks they’re worth. Private companies don’t have that. So how do you figure out what a private company is worth?
 
-Valuing private companies is a complex task, primarily because these businesses do not have publicly available stock prices. In contrast to public firms, which are easily valued using market data, private companies require tailored approaches. The valuation process hinges on finding reliable proxies for market value, assessing future financial potential, and scrutinizing risk factors unique to private ownership structures. This essay explores the primary methods for valuing private companies, the challenges involved, and best practices in determining a fair valuation.
+There are a few ways people try to do it, but none of them are perfect. The trick is to understand where they break down and make adjustments accordingly.
 
-## Key Valuation Methods
+## Comparable Company Analysis
 
-### 1. **Comparable Company Analysis (CCA)**
+One of the first things people do is look for public companies that are similar to the private company and see how much they’re worth. This is called _Comparable Company Analysis_ (CCA). The idea is simple: if public Company A trades at 10 times earnings, maybe private Company B, which is similar, should be worth the same.
 
-Comparable Company Analysis is one of the most common methods used to value private firms. This approach involves analyzing the financial metrics of similar publicly traded companies to estimate the value of a private entity. Key ratios, such as Price-to-Earnings (P/E), Enterprise Value-to-EBITDA (EV/EBITDA), and Price-to-Sales (P/S), are used to draw comparisons.
+But private companies aren’t public companies. For one thing, they’re smaller. And smaller companies are riskier, because they have fewer customers, less market power, and often weaker balance sheets. So you can’t just assume a private company should be worth as much as a public one with similar revenue or profits. You have to adjust for the fact that the private company is more fragile.
 
-However, applying CCA to private companies requires careful adjustments. Public companies often have more diverse revenue streams, greater geographic reach, and better access to capital markets. Adjusting for scale, profitability, and growth prospects is critical when using this method. For instance, a small private manufacturer cannot be directly compared to a multinational conglomerate without appropriate scaling adjustments for its limited market exposure.
+There’s also a liquidity problem. If you own shares in a public company, you can sell them pretty easily. Not so in a private company. So investors usually apply a "liquidity discount" to private companies. This can be anywhere from 10% to 30%, depending on how hard it would be to sell the company.
 
-### 2. **Discounted Cash Flow (DCF) Analysis**
+## Discounted Cash Flow (DCF)
 
-The Discounted Cash Flow method calculates a company’s value based on its projected future cash flows, which are then discounted back to present value using a discount rate. This method is especially useful for companies with predictable cash flows or established business models.
+Another way to value a company is to project its future cash flows and then discount them to their present value. This is called the _Discounted Cash Flow_ method (DCF). It sounds fancy, but it's really just a way of saying: “What is the company going to make in the future, and how much is that worth today?”
 
-The challenge with DCF lies in estimating future cash flows and selecting an appropriate discount rate. Private firms generally lack the financial transparency of public companies, and their future earnings are often less predictable. Moreover, determining the right discount rate requires factoring in both company-specific risks and broader market conditions. Private businesses typically face higher risks due to limited access to capital, lower liquidity, and dependency on key individuals, all of which should be reflected in the discount rate.
+DCF works best when a company has predictable cash flows. For example, if you’re valuing a well-established manufacturer with steady revenues, DCF can give you a pretty good estimate of what the business is worth. But if you’re dealing with a startup or a company in a volatile industry, DCF can be less reliable. Why? Because the future is inherently uncertain, and small changes in your assumptions can lead to wildly different valuations.
 
-### 3. **Precedent Transaction Analysis (PTA)**
+Even worse, private companies tend to have more unstable cash flows than public companies. Startups, in particular, often burn cash for years before they turn a profit—if they ever do. So applying DCF to a private company is often more guesswork than science.
 
-Precedent Transaction Analysis involves looking at the prices paid for similar companies in prior transactions. This method can be particularly useful in industries with frequent mergers and acquisitions.
+## Precedent Transactions
 
-For private firms, however, finding relevant data can be more difficult. Many private transactions are not fully disclosed, and the terms of deals vary widely. Even when transaction data are available, it’s crucial to consider the timing of the deal, the specific circumstances surrounding the acquisition, and the strategic motivations of the buyer. For example, if a buyer was willing to pay a premium for a competitor’s intellectual property or customer base, that premium might not be applicable to other deals in the same sector.
+Another method people use is _Precedent Transactions_. This involves looking at what similar companies have sold for in the past. For example, if a competitor in the same industry was bought for $100 million last year, that gives you a data point for what your company might be worth.
 
-## Challenges in Valuing Private Companies
+But deals are often situational. Maybe the buyer really wanted to get into a particular market and overpaid. Maybe the seller was in financial trouble and took a lowball offer. The price of a previous deal doesn’t necessarily reflect the intrinsic value of the company in question. It just tells you what someone was willing to pay at that moment, under those conditions.
 
-### 1. **Lack of Transparency**
+## The Real Challenge
 
-Unlike public companies, private firms are not required to disclose financial information. This lack of transparency makes it difficult to assess key financial metrics such as revenue, profitability, and debt levels. As a result, valuation professionals must rely on incomplete or privately provided data, which can be biased or unreliable.
+The real challenge when valuing private companies is that there are no perfect comparisons. Each company is unique, and private companies, in particular, have idiosyncrasies that make them hard to value accurately. A family-owned business might have been run in a way that maximizes the owner’s lifestyle rather than the company’s growth. Or a startup might be on the verge of a breakthrough that will either make it worth 10x what it is now, or nothing.
 
-To counteract this, valuers often use normalized earnings or adjusted EBITDA to eliminate non-recurring expenses or owner-specific costs that may distort the firm’s true earnings potential. For example, many private companies include personal expenses in their financial statements, which need to be adjusted for a more accurate valuation.
+Valuing private companies is especially hard because you have to make a lot of assumptions. You assume future revenues will grow at a certain rate. You assume certain costs will remain stable. You assume the market will value the company at a certain multiple in the future. And the more assumptions you make, the more room there is for error.
 
-### 2. **Illiquidity Discount**
+## Risk and Uncertainty
 
-Private companies tend to be less liquid than their public counterparts. The inability to quickly convert ownership into cash represents a significant risk, and this illiquidity is typically reflected by applying a discount to the valuation. The size of the illiquidity discount can vary based on the industry, company size, and potential buyer interest.
+The biggest difference between public and private companies is risk. Public companies are relatively safe. They’re big, diversified, and have access to capital markets. If their stock price drops, they can issue more shares or take out loans to stay afloat. Private companies don’t have that luxury. They’re more vulnerable to market shocks, and their survival often depends on a few key customers or products.
 
-For smaller private firms, this discount can be substantial. Studies suggest that illiquidity discounts range between 15% to 30%, depending on the market conditions and the nature of the asset being valued. For instance, a private tech startup might face a smaller discount due to high investor interest, while a local family-owned restaurant might see a larger discount due to limited buyer demand.
+This is why private company valuations often include a “risk premium.” Investors want to be compensated for taking on more risk. The more volatile the company’s earnings, the bigger the premium. And this premium can be significant—sometimes adding 20% or more to the discount rate in a DCF model.
 
-### 3. **Control Premiums and Minority Discounts**
+## Control Premiums and Minority Discounts
 
-When valuing private companies, ownership structure plays a critical role. Buyers often apply a control premium when acquiring a majority stake, reflecting the added value of having decision-making authority. Conversely, minority stakes are frequently discounted due to the lack of control over business operations.
+Another factor that affects private company valuation is control. If you’re buying a majority stake in a company, you’re usually willing to pay more because you get to call the shots. This is known as a _control premium_. On the flip side, if you’re buying a minority stake, you often pay less because you don’t have the same level of influence over the business. This is called a _minority discount_.
 
-For example, a controlling shareholder can influence dividend payouts, business strategy, and personnel decisions, which typically justifies a premium. On the other hand, minority shareholders may be unable to influence these decisions, reducing the value of their stake. This control dynamic is particularly important in family-owned businesses, where ownership and operational control are closely intertwined.
+For example, if you’re buying a 5% stake in a private company, you’re probably not going to be able to influence major decisions like dividend payouts or strategic direction. That makes your shares less valuable than if you owned 51% of the company.
 
-## Best Practices for Valuing Private Companies
+## Best Practices
 
-### 1. **Triangulation of Methods**
+So, how do you value a private company accurately? The truth is, you can’t. Not exactly. But there are best practices that can get you close.
 
-No single valuation method is perfect. To arrive at a more accurate valuation, professionals often use a combination of methods, such as CCA, DCF, and PTA, and triangulate the results. This approach minimizes reliance on any one method and provides a more balanced view of the company’s worth. For instance, if the DCF analysis results in a significantly higher valuation than CCA, it may indicate overly optimistic cash flow projections or an understated discount rate.
+First, use multiple methods. Don’t rely on just one. If CCA tells you the company is worth $50 million, but DCF says it’s worth $20 million, you need to dig deeper. Maybe your growth assumptions in the DCF model are too conservative. Or maybe the comparable public companies aren’t as similar as you thought.
 
-### 2. **Industry-Specific Adjustments**
+Second, adjust for risk. Private companies have more risk than public ones, so your discount rates should be higher. And don’t forget to apply a liquidity discount—private shares are harder to sell, so they should be worth less.
 
-Different industries have unique characteristics that affect valuation. For example, technology startups often operate with negative cash flow in the early years, relying on growth potential rather than current profitability. In contrast, mature industries such as manufacturing or retail emphasize steady cash flows and asset values.
-
-Valuation experts must make industry-specific adjustments to account for these differences. For instance, a biotech company in its R&D phase would not be valued in the same way as a profitable restaurant chain. Instead, investors may focus on intellectual property and the potential for future earnings once products are commercialized.
-
-### 3. **Engage Independent Valuers**
-
-Given the inherent complexities in valuing private companies, it is prudent to engage independent valuation experts. These professionals bring objectivity to the process and ensure that the valuation is based on sound financial principles rather than emotional or biased considerations. In family-owned businesses, for instance, internal stakeholders may have unrealistic expectations about the company’s worth, which can be mitigated by third-party expertise.
+Finally, be skeptical of your assumptions. Valuation models are only as good as the inputs you put into them. If you assume a private company will grow at 10% per year for the next decade, ask yourself: Why? Is that realistic? What could go wrong? The more you question your assumptions, the more accurate your valuation will be.
 
 ## Conclusion
 
-Valuing private companies is both an art and a science, requiring a deep understanding of financial metrics, market conditions, and industry-specific factors. The lack of publicly available data and the illiquidity of private shares introduce additional complexities into the process. By using a combination of valuation methods, making appropriate adjustments for risk factors, and engaging independent experts, it’s possible to arrive at a more accurate and fair valuation. This process is essential, not only for potential buyers and investors but also for company owners seeking to understand the true value of their business.
-
----
-
-## References
-
-1. Damodaran, A. (2012). _Investment Valuation: Tools and Techniques for Determining the Value of Any Asset_. Wiley.
-2. Pratt, S. P., & Niculita, A. V. (2008). _Valuing a Business: The Analysis and Appraisal of Closely Held Companies_. McGraw-Hill.
-3. Hitchner, J. R. (2017). _Financial Valuation: Applications and Models_. Wiley.
-4. Koller, T., Goedhart, M., & Wessels, D. (2020). _Valuation: Measuring and Managing the Value of Companies_. Wiley.
-5. Damodaran, A. (2016). _Narrative and Numbers: The Value of Stories in Business_. Columbia University Press.
+Valuing private companies is tough because there’s no single right answer. The best you can do is triangulate between different methods, adjust for risk, and be honest about the limitations of your assumptions. Valuation is less about finding the exact number and more about understanding the range of possible outcomes. If you can do that, you’ll be ahead of most people.
