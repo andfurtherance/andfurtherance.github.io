@@ -73,9 +73,6 @@ The DCF method estimates the present value of expected future cash flows generat
    where $$CF_t$$ is the cash flow in year $$t$$, $$r$$ is the discount rate, and $$n$$ is the number of years.
 
 <div class="illustration">
-
-### Illustration
-
 Assume a private car company projects annual cash flows of $5 million for the next five years with a discount rate of 12%.
 
 Calculating present value:
@@ -97,8 +94,6 @@ $$
 
 
 <div class="illustration">
-### Illustration
-
 If a private tech company has adjusted earnings of $10 million and an appropriate capitalization rate of 10%, its value would be:
 $$
 \text{Value} = \frac{10M}{0.10} = \$100 million
@@ -127,8 +122,6 @@ The Market Value Approach assesses a company’s worth by comparing it with simi
    - Examine past transactions involving similar companies to establish valuation benchmarks.
 
 <div class="illustration">
-### Illustration
-
 Assume a private technology company has earnings of $10 million. If the average price-to-earnings (P/E) ratio for comparable public companies is 20x:
 
 Using CCA:
