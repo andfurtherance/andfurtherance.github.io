@@ -2,10 +2,8 @@
 layout: default
 ---
 
-# Welcome to &FURTHERANCE
-
 <!-- List all posts -->
-<ul id="homepage-post-list">
+<ul id="post-list" class="container">
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
