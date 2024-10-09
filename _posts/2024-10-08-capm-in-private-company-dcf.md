@@ -2,7 +2,7 @@
 layout: post
 title: "Use of CAPM in Private Company DCF"
 blog_title: "Use of CAPM in Private Company DCF"
-date: 2024-10-08
+date: 2024-10-09
 categories: valuation
 ---
 
