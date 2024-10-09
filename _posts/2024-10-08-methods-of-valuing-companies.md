@@ -4,6 +4,7 @@ title: "Methods of Valuing Companies"
 blog_title: "Methods of Valuing Companies"
 date: 2024-10-08
 categories: valuation
+published: false
 ---
 
 # Valuing Private Companies: A Comprehensive Guide
