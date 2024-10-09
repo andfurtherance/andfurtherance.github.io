@@ -13,7 +13,7 @@ DCF is often misused. People plug numbers into a spreadsheet, generate a value, 
 
 ## The Core Idea of DCF: It’s About Time and Risk
 
-At its core, DCF is about two things: **time** and **risk**. The basic idea is that money today is worth more than money in the future. That’s because you can invest money today and earn a return on it. So if someone offers you $100 today or $100 next year, you’d prefer to have the money today, because you could invest it and turn it into something more than $100 by next year.
+At its core, DCF is about two things: **time** and **risk**. The basic idea is that money today is worth more than money in the future. That’s because you can invest money today and earn a return on it. So if someone offers you NPR 100 today or NPR 100 next year, you’d prefer to have the money today, because you could invest it and turn it into something more than NPR 100 by next year.
 
 This is where the concept of **discounting** comes in. When you discount a future cash flow, you’re adjusting it to reflect the fact that money in the future is worth less than money today. How much less depends on two things: how far in the future the cash flow is, and how risky it is. The further in the future the cash flow, and the riskier the company, the more you discount it.
 
@@ -49,7 +49,7 @@ There are two common ways to calculate the terminal value:
 
 1. **Perpetuity Growth Method**: This method assumes that the company’s cash flows will continue to grow at a constant rate forever. The formula for the terminal value is:
     
-     $\text{Terminal Value} = \frac{\text{Final Year’s Cash Flow} \times (1 + \text{Growth Rate})}{\text{Discount Rate} - \text{Growth Rate}}$
+     \text{Terminal Value} = \frac{\text{Final Year’s Cash Flow} \times (1 + \text{Growth Rate})}{\text{Discount Rate} - \text{Growth Rate}}
     
     The growth rate is usually small, reflecting long-term economic growth (often between 2-3%).
     
