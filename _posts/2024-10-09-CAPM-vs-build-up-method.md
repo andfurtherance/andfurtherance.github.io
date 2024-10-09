@@ -10,7 +10,7 @@ If you’re in finance, or you’ve ever tried to value a company, you’ve prob
 
 The problem is, while both CAPM and the Build-Up Method aim to do the same thing, they approach it in radically different ways. And depending on what kind of company you’re valuing, one method might be far better than the other—though neither is perfect.
 
-In this essay, I’ll break down the differences between CAPM and the Build-Up Method, and explain when each one works—and when it doesn’t. But to understand that, we need to start with the basics: what each model is trying to do, and why it matters.
+In this, we'll break down the differences between CAPM and the Build-Up Method, and explain when each one works—and when it doesn’t. But to understand that, we need to start with the basics: what each model is trying to do, and why it matters.
 
 What Are We Trying to Measure?
 At the core of both CAPM and the Build-Up Method is a deceptively simple question: How much return should an investor expect for taking on risk? In other words, if you’re going to invest in a company, especially one that’s not guaranteed to succeed, how much compensation should you demand for taking that risk?
