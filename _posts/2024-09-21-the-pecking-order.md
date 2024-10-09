@@ -4,6 +4,7 @@ title: "The Pecking Order"
 blog_title: "The Pecking Order"
 date: 2024-09-21
 categories: exploration
+published: false
 ---
 
 *Money follows furtherance, not the other way around.*
