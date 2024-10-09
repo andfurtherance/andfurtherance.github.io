@@ -4,6 +4,7 @@ title: "Breaking Down Remarkability"
 blog_title: "Breaking Down Remarkability"
 date: 2024-09-29
 categories: exploration
+published: false
 ---
 
 We haven't had power since two days now. It was hard. It was worse because the power went out Friday night and it is Sunday today. An entire weekend, after a rather dissonance-filled work-week, is wasted. With no devices on and with no Internet, I experienced withdrawal symptoms. When nothing helped, I turned to books. I picked up The Power Broker and took it till the chapter "Driving" completing 2 chapters in total. I also picked up Contagious. I wish I had done it some months before. I read maybe a few pages. I paused at the part of "Remarkability". I think this is worthy to be given some deeper look. **Let's break it down**.
