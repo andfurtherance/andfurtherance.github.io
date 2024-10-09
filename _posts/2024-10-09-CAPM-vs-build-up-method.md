@@ -62,7 +62,7 @@ The Build-Up Method takes a completely different approach. Instead of starting w
 
 The formula for the Build-Up Method looks like this:
 
-$ Expected Return=R_f+Equity Risk Premium+Size Premium+Industry Risk Premium+Company-Specific Risk Premium $
+$Expected Return=R_f+Equity Risk Premium+Size Premium+Industry Risk Premium+Company-Specific Risk Premium$
 
 Starting with the Risk-Free Rate
 Like CAPM, the Build-Up Method starts with the risk-free rate. That’s the baseline return any investor should get for taking no risk at all.
