@@ -29,7 +29,7 @@ $Expected Return=R_f+\beta(R_m−R_f)$
 
 Where:
 - Rf is the risk free rate
-- $ \beta $ is the beta
+- $\beta$ is the beta
 - Rm is the expected market return
 ​
 The Risk-Free Rate
