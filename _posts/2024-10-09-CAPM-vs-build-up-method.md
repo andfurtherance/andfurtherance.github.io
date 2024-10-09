@@ -28,9 +28,9 @@ The formula for CAPM looks like this:
 $Expected Return=R_f+\beta(R_m−R_f)$
 
 Where:
-- Rf is the risk free rate
+- $R_f$ is the risk free rate
 - $\beta$ is the beta
-- Rm is the expected market return
+- $R_m$ is the expected market return
 ​
 The Risk-Free Rate
 The risk-free rate is easy. It’s the return on something that’s essentially guaranteed, like U.S. Treasury bonds. If you could invest in something totally safe, what would your return be? That’s the baseline return any investor should demand, because they can always choose the safe option instead of taking on more risk.
@@ -62,22 +62,8 @@ The Build-Up Method takes a completely different approach. Instead of starting w
 
 The formula for the Build-Up Method looks like this:
 
-Expected Return
-=
-𝑅
-𝑓
-+
-Equity Risk Premium
-+
-Size Premium
-+
-Industry Risk Premium
-+
-Company-Specific Risk Premium
-Expected Return=R 
-f
-​
- +Equity Risk Premium+Size Premium+Industry Risk Premium+Company-Specific Risk Premium
+$ Expected Return=R_f+Equity Risk Premium+Size Premium+Industry Risk Premium+Company-Specific Risk Premium $
+
 Starting with the Risk-Free Rate
 Like CAPM, the Build-Up Method starts with the risk-free rate. That’s the baseline return any investor should get for taking no risk at all.
 
