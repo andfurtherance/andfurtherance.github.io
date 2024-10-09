@@ -4,6 +4,7 @@ title: "The Pecking Order: Lessons from Success and Failures"
 blog_title: "The Pecking Order: Lessons from Success and Failures"
 date: 2024-09-23
 categories: exploration
+published: false
 ---
 
 In the world of business and investments, we often find ourselves chasing after quick wins. We hear success stories—like those of **Apple** or **Amazon**—and wonder how we can replicate their triumphs. But what if the key to success lies not in chasing money but in understanding the journey of furtherance? 
