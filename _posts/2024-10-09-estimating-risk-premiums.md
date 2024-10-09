@@ -10,8 +10,6 @@ When we talk about valuing investments, especially in the context of finance and
 
 The truth is, estimating risk premiums is part science, part art. There are models and historical averages you can use as a guide, but intuition plays a big role, too. And the best estimates come from a mix of practical experience, gut instinct, and an understanding of the specific circumstances of the investment.
 
-In this essay, I’ll walk through some practical and intuitive ways to estimate different kinds of risk premiums. My goal is to show that while risk premiums can be difficult to quantify, they don’t have to be mysterious. You can make reasonable estimates by thinking clearly about the risks involved and using a few simple heuristics.
-
 ## The Equity Risk Premium: History as a Guide
 
 The **equity risk premium** is one of the most well-documented risk premiums, and it’s probably the easiest to estimate. The equity risk premium is the extra return investors expect for investing in stocks rather than risk-free assets like government bonds. Historically, this premium has been around 5-7%, depending on how you measure it and which time period you’re looking at.
