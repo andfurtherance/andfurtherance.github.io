@@ -10,8 +10,6 @@ If you’ve ever tried to value a private company, you’ve probably run into th
 
 But how do you calculate this illiquidity premium? It’s not something you can just look up in a database. It depends on the specific company, the market conditions, and the investor’s time horizon. And while there are some general guidelines, estimating the illiquidity premium is more of an art than a science.
 
-In this, we'll walk through practical ways to estimate the illiquidity premium for private companies. I’ll cover the different factors that affect the premium, real-world methods for calculating it, and some intuitive ways to think about how much extra return investors should demand for illiquidity.
-
 ## What Are We Trying to Measure?
 
 Let’s start by defining what we’re actually trying to measure. When we talk about the **illiquidity premium**, we’re talking about the extra return investors expect for holding an asset that can’t be easily sold. In other words, it’s the price investors charge for locking up their money in something that’s hard to convert into cash.
