@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Build Up Method to Value Private Companies"
-blog_title: "Build Up Method to Value Private Companies"
+title: "CAPM vs Build Up Method"
+blog_title: "CAPM vs Build Up Method"
 date: 2024-10-09
 categories: valuation, build up method
 ---
 
-CAPM vs. Build-Up Method: A Detailed Comparison
 If you’re in finance, or you’ve ever tried to value a company, you’ve probably encountered both the Capital Asset Pricing Model (CAPM) and the Build-Up Method. These are two of the most common ways to determine the cost of equity, which is a key input in any valuation model, especially the Discounted Cash Flow (DCF) method.
 
 The problem is, while both CAPM and the Build-Up Method aim to do the same thing, they approach it in radically different ways. And depending on what kind of company you’re valuing, one method might be far better than the other—though neither is perfect.
