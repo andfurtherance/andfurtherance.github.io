@@ -86,6 +86,10 @@ article ul {
   margin: 1em 0;
 }
 
+article ol {
+  margin: 1em, 0
+}
+
 p {
   margin-bottom: 15px;
 }
