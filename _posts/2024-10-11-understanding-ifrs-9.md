@@ -28,17 +28,17 @@ ECL is based on three key factors:
 
 The formula for calculating ECL is simple.
 $ ECL = PD * LGD * EAD $
-<div class="illustration">
-## Example: Lending Money to a Friend
-Imagine leading NPR 100 to a friend. There's a 10% they won't be able to pay it back. If they default, you think you'll lose about 70% of the loan because maybe you can get back some money by selling something they own . So:
 
-1. PD = 10%
-2. LGD = 70%
-3. EAD  = NPR 100
 
-Using the ECL formula:
-$ ECL = 0.10  * 0.70 * 100 = 7 $
-</div>
+> [!NOTE] Example: lending Money to a Friend
+> Imagine leading NPR 100 to a friend. There's a 10% they won't be able to pay it back. If they default, you think you'll lose about 70% of the loan because maybe you can get back some money by selling something they own . So:
+> 1. PD = 10%
+> 2. LGD = 70%
+> 3. EAD  = NPR 100
+> 
+> Using the ECL formula:
+> 
+>$$ ECL = 0.10  * 0.70 * 100 = 7 $$
 
 This means you expect to lose $7 on this loan. You might still get back NPR 7 on this loan. You might still get back NPR 93, but you're preparing for the possibility that you'll lose NPR 7.
 
@@ -77,31 +77,29 @@ Once the loans are grouped, the bank estimates the PD, LGD and EAD for each grou
 1. **PD**: The bank looks at past data to figure out how likely borrowers in each group are to default. For example, if 5 out of 100 borrowers with home mortgages defaulted last year, the bank might estimate a PD of 5% for home mortgages.
 2. **LGD**: The bank estimates how much it can recover if a borrower defaults. For example, if the bank usually recovers 60% of a mortgage loan by selling the house, it would set LGD at 40%.
 3. **EAD**: The bank calculates how much money is at risk.  This  is usually the outstanding balance of the loan.
+
 ### Step 3: Calculating ECL
 Once the bank estimated PD, LGD and EAD for each group, it multiplies them together to calculate the ECL for each group. Then, the ECLs for all the groups are added up to get the total expected credit losses for the bank.
 
-<div class="illustration">
-### Example: A Bank's Loan Portfolio
-Imagine a bank has two groups of loans: home loans and auto loans. The PD, LGD, and EAD for each groups are estimated as follows:
+> [!NOTE] Example: A Bank's Loan Portfolio
+> Imagine a bank has two groups of loans: home loans and auto loans. The PD, LGD, and EAD for each groups are estimated as follows:
+> - Home Loans
+> - PD = 2%
+> - LGD = 30% (the bank expects to lose 30% of the loan if there's a default)
+> - EAD = NPR 50 crores (the total amount of outstanding home loans)
+> - Auto Loans
+> - PD = 5% 
+> - LGD = 50%
+> - EAD = NPR 10 crores
+> 
+> Now the bank calculates ECL for each group:
+> - ECL for Home Loans
+> $$ ECL = 0.02 * 0.30 * 500000000 = 3000000 $$
+> ECL for Auto Loans
+> $$ ECL = 0.05 * 0.50 * 100000000 = 2500000 $$
+> 
+> So the bank expects to lose NPR 55 lakhs across its loan portfolio.
 
-- Home Loans
-	- PD = 2%
-	- LGD = 30% (the bank expects to lose 30% of the loan if there's a default)
-	- EAD = NPR 50 crores (the total amount of outstanding home loans)
-- Auto Loans
-	- PD = 5% 
-	- LGD = 50%
-	- EAD = NPR 10 crores
-
-Now the bank calculates ECL for each group:
-
-- ECL for Home Loans
-$ ECL = 0.02 * 0.30 * 500000000 = 3000000 $
-- ECL for Auto Loans
-$ ECL = 0.05 * 0.50 * 100000000 = 2500000 $
-
-So the bank expects to lose NPR 55 lakhs across its loan portfolio.
-</div>
 
 ## To Conclude
 ECL helps banks prepare for the future. By estimating how much they might lose on loans, banks can set aside money to cover those losses. This makes them more stable and less likely to fail if a lot of borrower default at the same time.
