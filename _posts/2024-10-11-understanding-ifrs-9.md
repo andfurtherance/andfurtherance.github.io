@@ -30,7 +30,7 @@ The formula for calculating ECL is simple.
 $ ECL = PD * LGD * EAD $
 
 
-> [!NOTE] Example: lending Money to a Friend
+> ### Example: lending Money to a Friend
 > Imagine leading NPR 100 to a friend. There's a 10% they won't be able to pay it back. If they default, you think you'll lose about 70% of the loan because maybe you can get back some money by selling something they own . So:
 > 1. PD = 10%
 > 2. LGD = 70%
@@ -81,7 +81,7 @@ Once the loans are grouped, the bank estimates the PD, LGD and EAD for each grou
 ### Step 3: Calculating ECL
 Once the bank estimated PD, LGD and EAD for each group, it multiplies them together to calculate the ECL for each group. Then, the ECLs for all the groups are added up to get the total expected credit losses for the bank.
 
-> [!NOTE] Example: A Bank's Loan Portfolio
+> ### Example: A Bank's Loan Portfolio
 > Imagine a bank has two groups of loans: home loans and auto loans. The PD, LGD, and EAD for each groups are estimated as follows:
 > - Home Loans
 > - PD = 2%
