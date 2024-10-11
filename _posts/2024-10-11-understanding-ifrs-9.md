@@ -39,8 +39,8 @@ $ ECL = PD * LGD * EAD $
 > Using the ECL formula:
 > 
 >$$ ECL = 0.10  * 0.70 * 100 = 7 $$
-
-This means you expect to lose $7 on this loan. You might still get back NPR 7 on this loan. You might still get back NPR 93, but you're preparing for the possibility that you'll lose NPR 7.
+>
+>This means you expect to lose $7 on this loan. You might still get back NPR 7 on this loan. You might still get back NPR 93, but you're preparing for the possibility that you'll lose NPR 7.
 
 Of course, banks don't just lend to one person--they lend to thousands of people and businesses. So they calculate ECL for every loan and add them up to estimate their total expected losses.
 ## Stages of Loans Under IFRS 9
